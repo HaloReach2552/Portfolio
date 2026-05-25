@@ -80,11 +80,10 @@ const CONFIG = {
   },
   skills: [
     'Python',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Machine Learning',
+    'SQL Server',
+    'MySQL',
+    'Power BI',
     'MySQL',
     'PostgreSQL',
     'Git'
