@@ -57,7 +57,6 @@ const CONFIG = {
     researchGate: '',
     reddit: '',
     medium: 'xxx',
-    website: 'xxx',
     phone: '+51 967169205',
     email: 'erikbrandon8697@gmail.com',
   },
