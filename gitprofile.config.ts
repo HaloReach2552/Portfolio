@@ -117,7 +117,7 @@ const CONFIG = {
     {
       institution: 'Data Science Program',
       degree: 'Certification',
-      from: '2016',
+      from: '2026',
       to: 'Currently',
     },
     {
