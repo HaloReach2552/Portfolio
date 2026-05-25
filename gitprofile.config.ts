@@ -51,11 +51,10 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Erik Morales', description: '', imageURL: '' },
+  seo: { title: 'Portfolio Erik Morales', description: '', imageURL: '' },
   social: {
     linkedin: 'Erik Morales',
     researchGate: '',
-    instagram: '',
     reddit: '',
     medium: 'xxx',
     website: 'xxx',
