@@ -53,26 +53,15 @@ const CONFIG = {
   },
   seo: { title: 'Erik Morales', description: '', imageURL: '' },
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'Erik Morales',
     researchGate: '',
     facebook: '',
     instagram: '',
     reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
-    behance: '',
     medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    discord: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
-    email: '',
+    website: 'xxx',
+    phone: '+51 967169205',
+    email: 'erikbrandon8697@gmail.com',
   },
   resume: {
     fileUrl:
