@@ -120,16 +120,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Programa Especialización Data Scientist',
+      degree: 'Certificación',
+      from: '2016',
+      to: 'Actualidad',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'PUCP',
+      degree: 'Bachiller Sociología',
+      from: '2016',
+      to: '2023',
     },
   ],
   publications: [
