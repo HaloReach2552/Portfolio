@@ -55,7 +55,6 @@ const CONFIG = {
   social: {
     linkedin: 'Erik Morales',
     researchGate: '',
-    facebook: '',
     instagram: '',
     reddit: '',
     medium: 'xxx',
