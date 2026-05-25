@@ -79,7 +79,7 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
+    'Python',
     'Laravel',
     'JavaScript',
     'React.js',
@@ -87,12 +87,7 @@ const CONFIG = {
     'Nest.js',
     'MySQL',
     'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Git'
   ],
   experiences: [
     {
