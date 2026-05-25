@@ -115,6 +115,7 @@ const CONFIG = {
   publications: [
     {
       title: 'Publication Title',
+      display: "false",
       conferenceName: '',
       journalName: 'Journal Name',
       authors: 'John Doe, Jane Smith',
@@ -124,6 +125,7 @@ const CONFIG = {
     },
     {
       title: 'Publication Title',
+      display: "false",
       conferenceName: 'Conference Name',
       journalName: '',
       authors: 'John Doe, Jane Smith',
