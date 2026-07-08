@@ -33,9 +33,9 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Segmentación de Alojamientos de Airbnb en EE. UU',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Este proyecto segmenta los alojamientos de Airbnb en EE.UU según sus características para identificar perfiles de propiedades y apoyar estrategias de precios y marketing mediante técnicas de clustering.',
           imageUrl:
             'https://statics.forbes.com.py/2024/12/67596ea452729.jpg',
           link: 'https://example.com',
