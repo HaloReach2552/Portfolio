@@ -38,7 +38,7 @@ const CONFIG = {
             'Este proyecto segmenta los alojamientos de Airbnb según sus características para identificar perfiles de propiedades y apoyar estrategias de precios y marketing mediante técnicas de clustering.',
           imageUrl:
             'https://statics.forbes.com.py/2024/12/67596ea452729.jpg',
-          link: 'https://github.com/HaloReach2552/Proyecto-Data-Science-Airbnb',
+          link: 'https://github.com/HaloReach2552/Proyecto-Data-Science-Airbnb/blob/main/proyecto.ipynb',
         },
         {
           title: 'Project Name',
