@@ -84,7 +84,7 @@ const CONFIG = {
     'Machine Learning',
     'SQL Server',
     'MySQL',
-    'Power BI',
+    'AWS',
     'MySQL',
     'PostgreSQL',
     'Git'
