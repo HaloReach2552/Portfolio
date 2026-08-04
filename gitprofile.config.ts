@@ -83,7 +83,6 @@ const CONFIG = {
     'Python',
     'Machine Learning',
     'SQL Server',
-    'MySQL',
     'AWS',
     'MySQL',
     'PostgreSQL',
