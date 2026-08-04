@@ -72,7 +72,6 @@ const CONFIG = {
     linkedin: 'Erik Morales',
     researchGate: '',
     reddit: '',
-    medium: 'xxx',
     phone: '+51 967169205',
     email: 'erikbrandon8697@gmail.com',
   },
@@ -154,7 +153,7 @@ const CONFIG = {
   blog: {
     source: 'dev', // medium | dev
     display: false,
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: "", // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
