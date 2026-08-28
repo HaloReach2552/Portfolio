@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://github.com/HaloReach2552/Proyecto-Data-Science-Airbnb/blob/main/proyecto.ipynb',
         },
         {
-          title: 'Project Name',
+          title: 'Web Scraping de aerolineas',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Desarrollo de proceso ETL en Python mediante Web Scraping sobre datos de vuelos de aerolíneas.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/0136/production/_102601300_gettyimages-928323334.jpg.webp',
+          link: 'https://github.com/HaloReach2552/Selenium.py/blob/main/files/Airlines.ipynb',
         },
         {
           title: 'Project Name',
